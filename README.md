@@ -8,13 +8,13 @@ We evaluated the inter-annotator agreement through the contributions of two anno
 | Entité nommée    | Total | Precision | Recall | F1     |
 |------------------|-------|-----------|--------|--------|
 | Age              | 164   | 0.977     | 0.904  | 0.939  |
-| Substance | Name   | 1034  | 0.8200    | 0.9805 | 0.8822 |
-|                  | Dosage| 608     | 0.99     | 0.94   | 0.97   |
-|                  | DrugForm | 14    | 0.857    | 0.857  | 0.857  |
-| Temporal Inf.    | Date  | 1208    | 0.9942   | 0.9709 | 0.9824 |
-|                  | Duration | 221   | 0.7481   | 0.9619 | 0.8417 |
-|                  | Frequency | 511   | 0.9954   | 0.7688 | 0.9819 |
-|                  | Time   | 88      | 0.875    | 0.9459 | 0.9091 |
+| Substance         Name   | 1034  | 0.8200    | 0.9805 | 0.8822 |
+|                   Dosage| 608     | 0.99     | 0.94   | 0.97   |
+|                   DrugForm | 14    | 0.857    | 0.857  | 0.857  |
+| Temporal Inf.     Date  | 1208    | 0.9942   | 0.9709 | 0.9824 |
+|                   Duration | 221   | 0.7481   | 0.9619 | 0.8417 |
+|                   Frequency | 511   | 0.9954   | 0.7688 | 0.9819 |
+|                   Time   | 88      | 0.875    | 0.9459 | 0.9091 |
 | EpisodeDeSoin    | 400   | 0.975     | 0.9485 | 0.8273 |
 | EvenementVecu    | 343   | 0.9589    | 0.9333 | 0.9459 |
 | ExamenClinique   | 308   | 0.9799    | 0.8811 | 0.8875 |
