@@ -32,11 +32,12 @@ We evaluated the inter-annotator agreement through the contributions of two anno
 
 ## Table 2: Quantitative Results of Relation Extraction
 
-| Relation                  | Total | Precision | Rappel | F1     |
-|---------------------------|-------|-----------|--------|--------|
-| Relations Temporelles     | 860   | 0.9130    | 0.8077 | 0.8571 |
-| A pour motif              | 1050  | 0.9750    | 0.9070 | 0.9398 |
-| Participe                 | 286   | 0.9831    | 0.5800 | 0.7296 |
-| Qualifie                  | 756   | 0.9211    | 0.7368 | 0.8188 |
-| Relations Medicaments dosage | 521 | 0.9046    | 0.8333 | 0.8678 |
+| **Relation**                   | **Total** | **Précision** | **Rappel** | **F1-score** |
+|--------------------------------|-----------|---------------|------------|--------------|
+| Relations temporelles          | 860       | 0.8430        | 0.8077     | 0.8571       |
+| A pour motif                   | 1050      | 0.8050        | 0.5070     | 0.9398       |
+| Participe                      | 286       | 0.9831        | 0.5800     | 0.7296       |
+| Qualifie                       | 756       | 0.8211        | 0.7368     | 0.8188       |
+| Relations médicaments-dosage   | 521       | 0.9046        | 0.8333     | 0.8678       |
+
 
