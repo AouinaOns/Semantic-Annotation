@@ -1,10 +1,18 @@
 OWL2Vec-Star/cache/
 OWL2Vec-Star/case_studies/
 OWL2Vec-Star/Exp_multi_fr/
+
+
+#Ignore all data files 
 ontology_data/
 OWL2Vec-Star/*.csv
 OWL2Vec-Star/*.numbers
 OWL2Vec-Star/onto_complete/psycho_subsume/ontoPsy_jacques19juin2023.owl
+/KeyPhrasesExtraction/KeyphraseVectorizers/*.txt
+/KeyPhrasesExtraction/KeyphraseVectorizers/*.ann
+
+
+
 
 # Other common ignores
 .DS_Store

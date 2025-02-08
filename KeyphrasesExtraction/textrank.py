@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Authors: Ygor Gallina, Florian Boudin
 # Date: 10-18-2018
-# Edited by: Ons Aouina
+
 """TextRank keyphrase extraction model.
 
 Implementation of the TextRank model for keyword extraction described in:
@@ -21,7 +21,7 @@ import logging
 
 import networkx as nx
 
-from base import LoadFile
+from pke.base import LoadFile
 
 
 class TextRank(LoadFile):

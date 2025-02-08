@@ -12,7 +12,7 @@ import logging
 import os
 import re
 
-def log_writing(logmsg,filename="/Users/oaouina/Applications/pythonProject/SIFRank/log/std.log"):
+def log_writing(logmsg,filename="./SIFRank/log/std.log"):
     # now we will Create and configure logger
     logging.basicConfig(filename=filename,
                         format='%(asctime)s %(message)s',

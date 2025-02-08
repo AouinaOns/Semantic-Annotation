@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author: Florian Boudin
 # Date: 09-11-2018
-#Edited by : Ons Aouina
 
 """SingleRank keyphrase extraction model.
 
@@ -19,7 +18,7 @@ from __future__ import print_function
 
 import networkx as nx
 
-from textrank import TextRank
+from pke.unsupervised.graph_based.textrank import TextRank
 
 
 class SingleRank(TextRank):
