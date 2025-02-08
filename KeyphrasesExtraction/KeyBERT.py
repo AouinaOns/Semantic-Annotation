@@ -11,12 +11,12 @@ from timeit import default_timer
 from sentence_transformers import SentenceTransformer
 
 def main():
-    base_path = r'..\datasets\Krapivin2009'
+    base_path = r'..\datasets'
     input_dir = os.path.join(base_path, 'docsutf8')
     output_dir = os.path.join(base_path, 'extracted/keybert')
 
     # Load model.
-    model = KeyBERT(model = "all-mpnet-base-v2")
+    model = KeyBERT(model = "camembert-base")
 
     # Set the current directory to the input dir
     os.chdir(os.path.join(os.getcwd(), input_dir))
