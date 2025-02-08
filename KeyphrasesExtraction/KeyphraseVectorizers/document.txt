@@ -1,0 +1,101 @@
+Compte-Rendu d’Hospitalisation de
+<nom /> HALLARY
+
+Née le 1er aout 2256
+
+adresse : 3 bis <rue /> <CP /> PARIS
+
+n° Sécurité Sociale :
+
+Date de rédaction : 24 MAI 2293
+
+Unité fonctionnelle : Docteur <nom />.
+Interne : <nom /> MOUAFFAK
+
+Date d’entrée : 5 avril 2293.
+Date de sortie : 20 mai 2293
+
+Destinataire(s) :
+Dr <nom /> 14/20 <rue /> <CP /> PARIS.
+
+MODALITE D’HOSPITALISATION
+HL Adressée par : le Docteur <nom />
+
+MOTIF D’HOSPITALISATION
+Patiente hospitalisée via le CMP à la demande du Docteur <nom /> pour
+bilan et ajustement thérapeutique.
+
+BIOGRAPHIE
+Parents retraités vivant en <ville />.
+Deuxième d’une fratrie de trois (deux frères).
+Vit maritalement depuis plusieurs années.
+Un fils <prenom />, âgée de 3 ans.
+En invalidité depuis trois ans, madame <nom /> est diplômée en
+comptabilité, métier qu’elle a exercé avant le début de sa maladie.
+
+ANTECEDENTS MEDICOCHIRURGICAUX PERSONNELS
+Endométriose cause de stérilité pendant 5 ans, traitée par voie
+cœlioscopie.
+
+ANTECEDENTS PSYCHIATRIQUES PERSONNELS
+Début des troubles en janvier 2287 par un premier épisode psychotique traité
+en ambulatoire par Haldol et Nozinan, avec persistance au décours d’un
+important syndrome déficitaire.
+Rechute psychotique en mars 2290 dans un contexte de rupture thérapeutique
+et de post partum, compliqué d’un passage à l’acte autolytique.
+Stabilisation sous Léponex à 425 mg par jour et suivi assuré au CMP par le.
+Docteur <nom />
+
+ANTECEDENTS FAMILIAUX
+Frère psychotique suivi par le Docteur <nom /> au CMP de la Garenne
+<ville />.
+
+HISTOIRE DE LA MALADIE
+Hospitalisation par le Docteur <nom /> de Madame <nom /> qui suite à
+l’évolution déficitaire de sa maladie, s’est retrouvée en perte quasi-
+totale d’autonomie et à la charge de son compagnon et de sa belle-mère.
+
+EXAMEN A L’ENTREE
+Patient incurique, angoissée.
+Mâchonnement. Contact superficiel, affects abrasés.
+Discours pauvre stéréotypé.
+Pas d’activité délirante verbalisée.
+
+EVOLUTION DANS LE SERVICE
+Diminution des doses de Léponex jusqu’à 200 mg par jour ans le but
+d’atténuer la sédation de la patiente et d’améliorer ses fonctions
+cognitives.
+Survenue d’un épisode infectieux broncho-pulmonaire prolongeant la durée de
+l’hospitalisation.
+Sous 200 mg de Léponex par jour, persistance du même tableau déficitaire
+avec, cependant, en fin d’hospitalisation, net apaisement de l’angoisse.
+
+PROJET DE SERVICE
+Suivi ambulatoire par : le Docteur <nom />
+
+Patiente confiée à sa famille (à sa mère pour un séjour de convalescence en
+<ville />).
+Hôpital de jour <prenom /> <rue />.
+Accueil au CATTP.
+
+EXAMENS COMPLEMENTAIRES
+Bilan biologique standard : RAS.
+Pharmacocinétique particulière du Léponex (à évaluer en ambulatoire : le
+Docteur <nom /> doit nous en préciser les modalités).
+
+AU TOTAL
+Evolution déficitaire d’une schizophrénie désorganisée chez une patiente de
+36 ans.
+
+Une information concernant le motif d’hospitalisation, les indications
+ainsi que les effets indésirables éventuels des examens complémentaires,
+des traitements et de leurs implications a été donnée au patient ou à sa
+famille.
+
+TRAITEMENT DE SORTIE
+CLOZAPINE 200 mg par jour.
+ATARAX 100 mg 1- 0 – 1.
+FORLAX sachet 1 par jour si constipation
+
+DIAGNOSTIC
+F 20.11

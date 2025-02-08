@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+requirements.txt
+setup.py
+./keyphrase_vectorizers/__init__.py
+./keyphrase_vectorizers/_version.py
+./keyphrase_vectorizers/keyphrase_count_vectorizer.py
+./keyphrase_vectorizers/keyphrase_tfidf_vectorizer.py
+./keyphrase_vectorizers/keyphrase_vectorizer_mixin.py
+./tests/__init__.py
+./tests/utils.py
+keyphrase_vectorizers.egg-info/PKG-INFO
+keyphrase_vectorizers.egg-info/SOURCES.txt
+keyphrase_vectorizers.egg-info/dependency_links.txt
+keyphrase_vectorizers.egg-info/requires.txt
+keyphrase_vectorizers.egg-info/top_level.txt

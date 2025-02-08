@@ -1,8 +1,0 @@
-<script>start("/Users/oaouina/Applications/pythonProject/KeyphraseExtraction/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow(".git",".git",1,448,"448 B",1738456586,"02/02/2025, 01:36:26");</script>
-<script>addRow("KeyExt","KeyExt",1,480,"480 B",1738456622,"02/02/2025, 01:37:02");</script>
-<script>addRow("KeyExt.py","KeyExt.py",0,357,"357 B",1738456586,"02/02/2025, 01:36:26");</script>
-<script>addRow("LICENSE","LICENSE",0,35149,"34.3 kB",1738456586,"02/02/2025, 01:36:26");</script>
-<script>addRow("README.md","README.md",0,1412,"1.4 kB",1738456586,"02/02/2025, 01:36:26");</script>
-<script>addRow("requirements.txt","requirements.txt",0,288,"288 B",1738456586,"02/02/2025, 01:36:26");</script>
